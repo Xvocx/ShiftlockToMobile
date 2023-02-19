@@ -6,6 +6,6 @@ This project is open source.
 
 # Loadstring and source code
 
-Loadstring:
+Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/Xvocx/ShiftlockToMobile/main/source", true))()
 
-Source code:
+Source code: https://raw.githubusercontent.com/Xvocx/ShiftlockToMobile/main/source
