@@ -1,2 +1,7 @@
 # ShiftlockToMobile
-This script adds a shiftlock button to roblox. (YOU NEED A EXECUTOR TO RUN THIS) (MOBILE ONLY)
+
+Script:
+
+Shoutout to youtube.com/@baianoscripts/ for making this script
+
+This project is open source.
